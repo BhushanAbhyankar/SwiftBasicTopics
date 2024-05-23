@@ -101,3 +101,5 @@ var something = "running \(radius)"
 print("diameter is = \(diameter) one")
 
 print("isCorrect value = \(isCorrect)")
+
+print("side is = \(side)")
