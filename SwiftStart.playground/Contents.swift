@@ -98,3 +98,4 @@ randomCharacter = "z"
 
 
 var something = "running \(radius)"
+print("diameter is = \(diameter) one")
