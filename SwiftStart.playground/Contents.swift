@@ -87,7 +87,7 @@ var side:Float = 23.4
 //diameter = "size"
 
 var isValid:Bool = true
-let isCorrect = false
+let isCorrect = true
 
 var someCharacter = "ABC"
 var randomCharacter:Character = "x"
@@ -99,3 +99,5 @@ randomCharacter = "z"
 
 var something = "running \(radius)"
 print("diameter is = \(diameter) one")
+
+print("isCorrect value = \(isCorrect)")
