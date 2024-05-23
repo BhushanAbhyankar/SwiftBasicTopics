@@ -91,10 +91,10 @@ let isCorrect = false
 
 var someCharacter = "ABC"
 var randomCharacter:Character = "x"
-randomCharacter = "y"
+randomCharacter = "z"
 
 //someCharacter = 123 //type safety
 
 
 
-//var something = "running \(radius)"
+var something = "running \(radius)"
