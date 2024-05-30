@@ -10,6 +10,10 @@
         <page name='Classes'/>
         <page name='Initilzers'/>
         <page name='Struct'/>
+        <page name='Protocols'/>
+        <page name='extension'/>
         <page name='Enum'/>
+        <page name='Types of Properties'/>
+        <page name='Closures'/>
     </pages>
 </playground>
